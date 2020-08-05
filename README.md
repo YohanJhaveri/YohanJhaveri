@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey there! 👋🏼
+
+- I am a co-founder at StudyFind, a platform that seamlessly connects Researchers and Participants. 
+- I enjoy building beautiful and intuitive user interfaces and love working with React.
+- My two favorite programming languages are Python and Javascript.
+
+<img alt="Yohan's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=YohanJhaveri&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true">
 
 <!--
 **YohanJhaveri/YohanJhaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
