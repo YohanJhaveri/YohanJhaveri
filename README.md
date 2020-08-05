@@ -1,13 +1,13 @@
-
-<img alt="Yohan's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=YohanJhaveri&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true">
-
 ## Hey there! 👋🏼
 
 I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org). 
 
-I love exploring everything CS-related but my favorite domains are cryptography, game design and reinforcement learning.  
+I love exploring everything CS-related and my favorite areas are cryptography, game design and reinforcement learning.  
 
-I also enjoy playing my acoustic guitar, designing geometric logos and reading books on productivity.
+I also enjoy playing my acoustic guitar, designing geometric logos and reading books on philosophy or productivity.
+
+<img alt="Yohan's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=YohanJhaveri&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true">
+
 <!--
 **YohanJhaveri/YohanJhaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
