@@ -3,7 +3,9 @@
 ## Hey there! 👋🏼
 
 I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org). 
+
 I love exploring anything that excites me and I'm currently learning about game design.
+
 I enjoy playing my acoustic guitar, designing logos and reading books on philosophy.
 
 <!--
