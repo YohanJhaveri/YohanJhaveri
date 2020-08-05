@@ -3,7 +3,7 @@
 
 ## Hey there! 👋🏼
 
-- I am a co-founder at [studyfind.org](https://studyfind.org), a platform that seamlessly connects Researchers and Participants
+- I'm a co-founder at [studyfind.org](https://studyfind.org), a platform that connects participants and researchers
 - I enjoy building beautiful and intuitive user interfaces and love working with React
 - My two favorite programming languages are Python and Javascript
 
