@@ -4,8 +4,8 @@
 ## Hey there! 👋🏼
 
 - I'm a co-founder at [studyfind.org](https://studyfind.org), a platform that connects participants and researchers
-- I enjoy building beautiful and intuitive user interfaces and love working with React
-- My two favorite programming languages are Python and Javascript
+- I enjoy designing and developing intuitive user interfaces
+- My two favorite programming languages are Python and Javascript and I love working with React
 
 <!--
 **YohanJhaveri/YohanJhaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
