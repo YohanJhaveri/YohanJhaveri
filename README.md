@@ -3,10 +3,10 @@
 
 ## Hey there! 👋🏼
 
+My name is Yohan and I am 21 years old.
 - I'm a co-founder at [studyfind.org](https://studyfind.org), a platform that connects participants and researchers
-- I enjoy designing and developing intuitive user interfaces
-- My two favorite programming languages are Python and Javascript and I love working with React
-
+- I'm a confident React Developer who enjoys designing and building intuitive user interfaces. 
+- I enjoy delving into topics like cryptography, reinforcement learning and game design. 
 <!--
 **YohanJhaveri/YohanJhaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
