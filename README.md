@@ -3,7 +3,7 @@
 
 ## Hey there! 👋🏼
 
-I'm a 21 year old React Developer and co-founder at [studyfind.org](https://studyfind.org). I enjoy designing and building intuitive user interfaces. My other interests involve game design, music and reinforcement learning.
+I'm a 21 year old React Developer and co-founder at [@studyfind](https://studyfind.org). I enjoy designing and building intuitive user interfaces. My other interests involve game design, music and reinforcement learning.
 <!--
 **YohanJhaveri/YohanJhaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
