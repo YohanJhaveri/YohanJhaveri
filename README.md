@@ -2,7 +2,7 @@
 
 ## Hey there! 👋🏼
 
-I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org). 
+- I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org). 
 
 I'm currently working on building the researcher-facing platform for StudyFind.
 
