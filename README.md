@@ -2,11 +2,11 @@
 
 ## Hey there! 👋🏼
 
-- I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org). 
+- I'm a confident React Developer and co-founder [@studyfind.org](https://studyfind.org). 
 
-I'm currently working on building the researcher-facing platform for StudyFind.
+- I'm currently working on building the researcher-facing platform for StudyFind.
 
-I enjoy playing my acoustic guitar, designing logos and reading books on productivity.
+- I enjoy playing my acoustic guitar, designing logos and reading books on productivity.
 
 <!--
 **YohanJhaveri/YohanJhaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
