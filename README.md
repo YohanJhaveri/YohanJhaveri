@@ -2,7 +2,7 @@
 
 - I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org)
 - I love exploring anything CS related, but my favorite topics are cryptography, game design and reinforcement learning
-- I enjoy playing my acoustic guitar, designing geometric logos and travel photography 
+- I enjoy playing my acoustic guitar, designing geometric logos, travel photography and documentary filmmaking 
 
 <img alt="Yohan's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=YohanJhaveri&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true">
 
