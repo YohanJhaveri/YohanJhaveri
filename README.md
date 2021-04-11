@@ -1,6 +1,6 @@
 ## Hey there! 👋🏼
 
-- I'm a 21 year old React Developer and co-founder [@studyfind.org](https://studyfind.org)
+- I'm a 22 year old React Developer and co-founder [@studyfind.org](https://studyfind.org)
 - I love exploring anything CS related and my favorite topics are cryptography, game design and reinforcement learning
 - I enjoy playing my acoustic guitar, designing geometric logos, travel photography and documentary filmmaking 
 
